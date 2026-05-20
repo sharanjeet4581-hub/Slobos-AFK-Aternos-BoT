@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FOREVER9999.aternos.me:21768",
+    "ip": "FOREVER9999.aternos.me",
     "port": 21768,
     "version": "",
     "try-creative": false
